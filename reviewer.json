@@ -1,0 +1,15 @@
+{
+  "projects": [
+    {
+      "project_name": "sso",
+      "project_owner": ["asd", "fgh"]
+    },
+    {
+      "project_name": "ums",
+      "project_owner": ["zxc", "vbn"]
+    }
+  ],
+  "QA": ["qwe", "rty"],
+  "DCES": ["uio", "jkl"],
+  "RUN": ["xcv", "bnm"]
+}
